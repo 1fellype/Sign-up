@@ -7,7 +7,7 @@
  - Projeto construído durante o curso PROPROFISSÃO.
 
 ## Acesso
- [Clique aqui para acessar! :)](https://1fellype.github.io/Shoes/)
+ [Clique aqui para acessar! :)](https://1fellype.github.io/Sign-up/)
 
 ## Tecnologias
 
